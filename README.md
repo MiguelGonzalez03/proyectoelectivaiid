@@ -14,6 +14,7 @@
 ## Sprint 2:
 ### Historia Técnica ED 002 
 
+![](HistoriaTecnica.jpeg)
 
 
 <p align="center">
