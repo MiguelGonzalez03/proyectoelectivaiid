@@ -1,3 +1,21 @@
+# Proyecto Electiva Disciplinar II - Backend
+
+## Integrantes
+
+* Manuel Diaz [@manuel0585](https://github.com/manuel0585)
+* Miguel Gonzalez [@MiguelGonzalez03](https://github.com/MiguelGonzalez03)
+* Misael Martinez [@Misael1125](https://github.com/Misael1125)
+
+## Sprint 1:
+### Historia de usuario ED 001
+
+![](HistoriaUsuario.png)
+
+## Sprint 2:
+### Historia Técnica ED 002 
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
